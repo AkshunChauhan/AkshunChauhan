@@ -40,13 +40,18 @@
   <a href="https://www.linkedin.com/in/akshunchauhan/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://www.instagram.com/akshun_official/">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://twitter.com/Akshun_official">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCdQCx1n-nadcMi-k46bIIpg">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
 </div>
 
-###
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshunChauhan&theme=midnight-purple&hide_border=true" height="150" alt="stats graph"  />
@@ -54,8 +59,8 @@
 </div>
 
 ### ✍️ Random Dev Quote
-<div aline="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical"/>
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical"/>
 </div>
 
 ## 🏆 GitHub Trophies
