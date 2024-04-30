@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋! My name is Akshun Chauhan</h1>
 
-<br>
-<h2>💫 About Me:</h2>
+## 💫 About Me:
 🔭 Currently immersed in the world of Data Analysis.<br>👯 Open to collaboration on cutting-edge projects involving LLM or Blockchain technology.<br>🤝 Seeking assistance and insights in the realm of Artificial Intelligence.<br>🌱 Continuously advancing skills in Data Science.<br>💬 Feel free to engage me in captivating discussions about space science.<br>
 
 #
@@ -52,8 +51,11 @@
 ###
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AkshunChauhan&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshunChauhan&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshunChauhan&theme=midnight-purple&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshunChauhan&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="150" alt="stats graph"  />
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AkshunChauhan&theme=radical&no-frame=true&no-bg=true&margin-w=4)
