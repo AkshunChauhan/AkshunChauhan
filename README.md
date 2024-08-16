@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋! My name is Akshun Chauhan</h1>
 
 ## 💫 About Me:
-🔭 Currently immersed in the world of Data Analysis.<br>👯 Open to collaboration on cutting-edge projects involving LLM or Blockchain technology.<br>🤝 Seeking assistance and insights in the realm of Artificial Intelligence.<br>🌱 Continuously advancing skills in Data Science.<br>💬 Feel free to engage me in captivating discussions about space science.<br>
+🔭 Currently immersed in the world of Data Analysis.<br>👯 Open to collaboration on projects involving LLM or Blockchain technology.<br>🤝 Seeking assistance and insights in the realm of Artificial Intelligence.<br>🌱 Continuously advancing skills in Data Science.<br>💬 Feel free to engage me in captivating discussions about space science.<br>
 
 #
 
