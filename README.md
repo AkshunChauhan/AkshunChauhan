@@ -52,14 +52,7 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshunChauhan&theme=midnight-purple&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshunChauhan&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshunChauhan&theme=midnight-purple&hide_border=true" height="150" alt="stats graph](https://github-readme-streak-stats.herokuapp.com/?user=akshunchauhan&theme=transparent&hide_border=true)"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshunChauhan&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="150" alt="stats graph](https://github-readme-stats.vercel.app/api/top-langs/?username=akshunchauhan&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)"  />
 </div>
 
-### ✍️ Random Dev Quote
-<div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical"/>
-</div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AkshunChauhan&theme=radical&no-frame=true&no-bg=true&margin-w=4)
