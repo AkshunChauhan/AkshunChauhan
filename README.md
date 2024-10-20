@@ -49,10 +49,10 @@
   </a>
 </div>
 
-## 📊 GitHub Stats:
+## 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshunChauhan&theme=midnight-purple&hide_border=true" height="150" alt="stats graph](https://github-readme-streak-stats.herokuapp.com/?user=akshunchauhan&theme=transparent&hide_border=true)"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshunChauhan&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="150" alt="stats graph](https://github-readme-stats.vercel.app/api/top-langs/?username=akshunchauhan&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshunchauhan&theme=transparent&hide_border=true" height="150" alt="stats graph](https://github-readme-streak-stats.herokuapp.com/?user=akshunchauhan&theme=transparent&hide_border=true)"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshunchauhan&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="stats graph](https://github-readme-stats.vercel.app/api/top-langs/?username=akshunchauhan&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)"  />
 </div>
 
