@@ -62,6 +62,5 @@
 ##
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshunchauhan&theme=transparent&hide_border=true" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshunchauhan&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
 </div>
