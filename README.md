@@ -1,66 +1,88 @@
-<h1 align="center">Hi 👋! My name is Akshun Chauhan</h1>
+<h1 align="center">Hi, I'm Akshun Chauhan</h1>
 
-## 💫 About Me:
-🔭 Currently immersed in the world of Data Analysis.<br>👯 Open to collaboration on projects involving LLM or Blockchain technology.<br>🤝 Seeking assistance and insights in the realm of Artificial Intelligence.<br>🌱 Continuously advancing skills in Data Science.<br>💬 Feel free to engage me in captivating discussions about space science.<br>
+<p align="center">
+AI Systems • Data Science • Applied Research
+</p>
 
-#
+<p align="center">
+Building intelligent systems that (usually) behave as expected.
+</p>
 
-<br clear="both">
+---
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
-  <!-- Cloud Platforms -->
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+## About
 
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+I enjoy working on complex technical problems wherever they appear sometimes in **machine learning systems**, sometimes in **data infrastructure**, and sometimes somewhere in between.
 
-  <!-- Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
- 
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-
-  <!-- DevOps Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-
-  <!-- Tools and Miscellaneous -->
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
- 
-  
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/akshunchauhan/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/akshun_official/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCdQCx1n-nadcMi-k46bIIpg">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-</div>
+---
 
 
-##
+## What I Work On
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshunchauhan&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
-</div>
+- Designing and experimenting with **foundation models and multimodal systems**
+- Building **data-centric machine learning pipelines**
+- Studying **evaluation, optimization, and behavior of ML systems**
+- Developing **infrastructure and tooling for ML experimentation**
+- Bridging **research prototypes with production-ready systems**
+
+---
+
+
+## Current Status
+
+```
+Training models           ██████████░░░░  70%
+Debugging pipelines       █████████████░  90%
+Explaining results        ███████░░░░░░░  50%
+Coffee consumption        ██████████████  100%
+```
+
+---
+
+## Things People Usually Ask Me About
+
+| Before AI | Now |
+|---|---|
+| ~~"Why is this system slow?"~~ | "My printer isn't working… can you take a look?" |
+| ~~"Can you help me debug this?"~~ | "Which AI tool are you using these days?" |
+| ~~"Why this work on my machine but not in production?"~~ | "Can we just add AI to this?" |
+
+
+---
+
+## Technologies I Work With
+
+<p align="center">
+
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+
+</p>
+
+---
+
+<p align="center">
+Exploring how intelligent systems evolve from research prototypes into reliable production systems.
+</p>
+
+---
+
+
