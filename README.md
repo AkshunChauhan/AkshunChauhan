@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Akshun Chauhan</h1>
 
 <p align="center">
-AI Systems • Data Science • Applied Research
-</p>
-
-<p align="center">
 Building intelligent systems that (usually) behave as expected.
 </p>
 
@@ -23,7 +19,6 @@ I enjoy working on complex technical problems wherever they appear sometimes in 
 - Building **data-centric machine learning pipelines**
 - Studying **evaluation, optimization, and behavior of ML systems**
 - Developing **infrastructure and tooling for ML experimentation**
-- Bridging **research prototypes with production-ready systems**
 
 ---
 
